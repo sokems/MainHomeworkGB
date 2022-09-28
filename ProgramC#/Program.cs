@@ -26,6 +26,18 @@ string[] SortArrayOfThreeCharacters(string[] array, int size)
     return sortArray;
 }
 
+void ShowArray(string[] array)
+{
+    int size = array.Length;
+
+    for(int i = 0; i < size; i++)
+    {
+        if(i == 0) Console.Write($"[{array[i]}, ");
+        if((i > 0) && (i < size - 1)) Console.Write($"{array[i]}, ");
+        if(i == size - 1) Console.Write($"{array[i]}]");
+    }
+}
+
 string[] array = {"hello", "12", "no", "butter", " "};
 int size = NumberOfElementsUpToThreeInLength(array);
 string[] newArray = SortArrayOfThreeCharacters(array, size);
