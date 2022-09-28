@@ -28,3 +28,4 @@ string[] SortArrayOfThreeCharacters(string[] array, int size)
 
 string[] array = {"hello", "12", "no", "butter", " "};
 int size = NumberOfElementsUpToThreeInLength(array);
+string[] newArray = SortArrayOfThreeCharacters(array, size);
