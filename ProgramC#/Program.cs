@@ -38,9 +38,10 @@ void ShowArray(string[] array)
     }
 }
 
-string[] array = {"hello", "12", "no", "butter", " "};
+string[] array = {"hello", "12", "no", "butter", " ", "123"};
 int size = NumberOfElementsUpToThreeInLength(array);
 string[] newArray = SortArrayOfThreeCharacters(array, size);
+
 ShowArray(array);
 Console.Write(" -> ");
 ShowArray(newArray);
