@@ -11,3 +11,4 @@
 }
 
 string[] array = {"hello", "12", "no", "butter", " "};
+int size = NumberOfElementsUpToThreeInLength(array);
