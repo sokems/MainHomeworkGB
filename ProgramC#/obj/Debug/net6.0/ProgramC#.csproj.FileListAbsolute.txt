@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\bin\Debug\net6.0\ProgramC#.exe
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\bin\Debug\net6.0\ProgramC#.deps.json
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\bin\Debug\net6.0\ProgramC#.runtimeconfig.json
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\bin\Debug\net6.0\ProgramC#.dll
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\bin\Debug\net6.0\ProgramC#.pdb
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.AssemblyInfo.cs
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.dll
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\refint\ProgramC#.dll
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.pdb
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ProgramC#.genruntimeconfig.cache
+C:\Users\1\Desktop\MainHomeworkGB\ProgramC#\obj\Debug\net6.0\ref\ProgramC#.dll
